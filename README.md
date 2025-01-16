@@ -23,7 +23,8 @@ This is the frontend for managing movies, producers, and actors, built with Reac
    npm install
 
 3. **Start the development server**:
-   ```npm run dev
+   ```bash
+   npm run dev
 
 ## Application Flow
 
